@@ -19,8 +19,6 @@ if __name__=='__main__':
     clearfix_bf = BeautifulSoup(str(clearfix),'lxml')
     div_a = clearfix_bf.find_all('a')
 
-    #print(clearfix_bf)
-
     fm = FileManager()
 
     for a in div_a:
@@ -57,9 +55,6 @@ if __name__=='__main__':
         print(video_thunder, '\n')
         filename = 'y80s电影大全.txt'
         fm.writelines(filename,str_list=[name,url_info,desc_text,video_thunder+'\n'])
-        # fm.write(filename,url_info,split='')
-        # fm.write(filename,desc_text,split='')
-        # fm.write(filename,video_thunder,split='\n\n')
 
         time.sleep(1)
 

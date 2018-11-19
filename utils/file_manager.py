@@ -35,7 +35,7 @@ class FileManager(object):
                     #抛出异常
                     raise TypeError('str_list must be a list of str!,such as:[str1,str2,...]')
             #如果没抛出异常，就可以写入数据
-            f = open(filename, 'a')
+            f = open(filename, 'a',encoding='utf-8')
             string =split.join(str_list)
             f.write(string)
             f.close()

@@ -1,1 +1,1 @@
-{"success": true, "token": "5873e9fcddfd49db8618bcaac6366627"}
+{"success": true, "token": "bea73ee77fe14ff5aac50b72256a9268"}

@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9c912ef1-0093-4436-9006-4bfb07aa5993" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/douyin/douyin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/douyin/douyin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/file_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/file_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wxpy.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/wxpy.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/y80sdemo/y80s_movie_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/y80sdemo/y80s_movie_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/y80sdemo/y80s电影大全.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +20,10 @@
     <SUITE FILE_PATH="coverage/pythonProject$pythonTest.coverage" NAME="pythonTest Coverage Results" MODIFIED="1541063340657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$biqukan_spider.coverage" NAME="biqukan_spider Coverage Results" MODIFIED="1541126281800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiderdemo" />
     <SUITE FILE_PATH="coverage/pythonProject$unsplash_spider.coverage" NAME="unsplash_spider Coverage Results" MODIFIED="1541147294073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unsplashdemo" />
-    <SUITE FILE_PATH="coverage/pythonProject$tuling_robot.coverage" NAME="tuling_robot Coverage Results" MODIFIED="1541411529859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robotdemo" />
+    <SUITE FILE_PATH="coverage/pythonProject$tuling_robot.coverage" NAME="tuling_robot Coverage Results" MODIFIED="1542015646658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robotdemo" />
     <SUITE FILE_PATH="coverage/pythonProject$wechat_python.coverage" NAME="wechat_python Coverage Results" MODIFIED="1541410033273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robotdemo" />
-    <SUITE FILE_PATH="coverage/pythonProject$y80s_movie_spider.coverage" NAME="y80s_movie_spider Coverage Results" MODIFIED="1541578636321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/y80sdemo" />
-    <SUITE FILE_PATH="coverage/pythonProject$douyin_appsign.coverage" NAME="douyin_appsign Coverage Results" MODIFIED="1541055103279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin" />
+    <SUITE FILE_PATH="coverage/pythonProject$y80s_movie_spider.coverage" NAME="y80s_movie_spider Coverage Results" MODIFIED="1541643058912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/y80sdemo" />
+    <SUITE FILE_PATH="coverage/pythonProject$douyin_appsign.coverage" NAME="douyin_appsign Coverage Results" MODIFIED="1542016039937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -42,8 +46,8 @@
     <session id="122269698">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -51,26 +55,26 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.65" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="groovy" value="5" />
-          <entry key="jpg" value="2" />
+          <entry key="jpg" value="3" />
           <entry key="js" value="4" />
-          <entry key="py" value="44" />
-          <entry key="txt" value="4" />
+          <entry key="py" value="49" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="2" />
+          <entry key="Image" value="3" />
           <entry key="JavaScript" value="2" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="44" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="49" />
           <entry key="Scratch" value="7" />
         </counts>
       </usages-collector>
@@ -78,13 +82,13 @@
         <counts>
           <entry key="Python Console" value="54" />
           <entry key="dummy" value="14" />
-          <entry key="py" value="7096" />
+          <entry key="py" value="7110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="7150" />
+          <entry key="Python" value="7164" />
         </counts>
       </usages-collector>
     </session>
@@ -97,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/y80sdemo/y80s_movie_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+            <state relative-caret-position="532">
+              <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
               <folding>
                 <element signature="e#24#53#0" expanded="true" />
               </folding>
@@ -109,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/file_manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="494">
+              <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -118,8 +122,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spiderdemo/biqukan_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="760">
+              <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotdemo/tuling_robot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+              <folding>
+                <element signature="e#24#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robotdemo/wechat_python.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/douyin/douyin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/douyin/douyin_appsign.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2318">
+              <caret line="126" column="64" selection-start-line="126" selection-start-column="64" selection-end-line="126" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -162,8 +205,8 @@
         <option value="$PROJECT_DIR$/robotdemo/wechat_python.py" />
         <option value="$PROJECT_DIR$/robotdemo/tuling_robot.py" />
         <option value="$PROJECT_DIR$/utils/FileManager.py" />
-        <option value="$PROJECT_DIR$/utils/file_manager.py" />
         <option value="$PROJECT_DIR$/y80sdemo/y80s_movie_spider.py" />
+        <option value="$PROJECT_DIR$/utils/file_manager.py" />
       </list>
     </option>
   </component>
@@ -173,7 +216,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1040" />
@@ -198,13 +241,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="douyin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="robotdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pythonProject" type="b2602c69:ProjectViewProjectNode" />
@@ -225,6 +277,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,8 +300,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.y80s_movie_spider">
-    <configuration name="biqukan_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.douyin_appsign">
+    <configuration name="douyin_appsign" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,12 +309,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spiderdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spiderdemo/biqukan_spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/douyin_appsign.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,19 +412,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.biqukan_spider" />
       <item itemvalue="Python.unsplash_spider" />
       <item itemvalue="Python.wechat_python" />
       <item itemvalue="Python.tuling_robot" />
       <item itemvalue="Python.y80s_movie_spider" />
+      <item itemvalue="Python.douyin_appsign" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.y80s_movie_spider" />
+        <item itemvalue="Python.douyin_appsign" />
         <item itemvalue="Python.tuling_robot" />
+        <item itemvalue="Python.y80s_movie_spider" />
         <item itemvalue="Python.wechat_python" />
         <item itemvalue="Python.unsplash_spider" />
-        <item itemvalue="Python.biqukan_spider" />
       </list>
     </recent_temporary>
   </component>
@@ -398,14 +451,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49944383" visible="true" weight="0.42792794" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944383" visible="true" weight="0.105150215" />
       <window_info id="Structure" order="1" sideWeight="0.5005562" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5005562" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49887386" visible="true" weight="0.5084938" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49887386" weight="0.5083426" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398641" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -413,7 +466,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011261" side_tool="true" weight="0.6704417" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011261" side_tool="true" weight="0.6696329" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.5537939" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32842582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -604,47 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unsplashdemo/unsplash_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robotdemo/tuling_robot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robotdemo/wechat_python.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/douyin_appsign.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="791">
-          <caret line="259" column="62" selection-start-line="259" selection-start-column="62" selection-end-line="259" selection-end-column="62" />
-          <folding>
-            <element signature="e#23#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/douyin/douyin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#23#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/y80sdemo/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -661,27 +673,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spiderdemo/biqukan_spider.py">
+    <entry file="file://$PROJECT_DIR$/y80sdemo/y80s/友罪.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unsplashdemo/unsplash_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="228">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/file_manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="494">
+          <caret line="26" column="58" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spiderdemo/biqukan_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotdemo/tuling_robot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotdemo/wechat_python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/douyin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douyin/douyin_appsign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="126" column="64" selection-start-line="126" selection-start-column="64" selection-end-line="126" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/y80sdemo/y80s电影大全.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/y80sdemo/y80s_movie_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        <state relative-caret-position="532">
+          <caret line="28" column="57" lean-forward="true" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
           <folding>
             <element signature="e#24#53#0" expanded="true" />
           </folding>
